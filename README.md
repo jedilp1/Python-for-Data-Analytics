@@ -1,3 +1,5 @@
+# ESG vs Non-ESG Investment Performance in Thailand's Petrochemicals & Chemicals Sector
+
 ## **Project Disclaimer & Important Notes**
 
 The analysis compares the financial performance and risk-adjusted returns of ESG-listed versus non-ESG companies in Thailand’s Petrochemicals & Chemicals sector over the period 2018–2025, using publicly available data from yfinance and the Stock Exchange of Thailand’s official Thai ESG list.
